@@ -11,3 +11,16 @@
   APIs.
 
 ## Google Log
+
+* Had to explore raw node to understand streams at a deeper level. This ate away
+  at most of the crucial time I needed to finish this in a timely manner.
+
+## Retrospective
+
+Had to explore raw node to understand streams at a deeper level. This ate away
+at most of the crucial time I needed to finish this in a timely manner. Will
+continue to explore node streams and how I can then integrate txt files into a
+node server. That being said, I'm excited to learn how to integrate different
+files other than js, html, and css together. Especially coming back from the
+hackathon having created routes that successfully integrates python scripts.
+More to come.
